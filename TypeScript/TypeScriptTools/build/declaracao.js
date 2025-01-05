@@ -1,0 +1,10 @@
+"use strict";
+let nome;
+let idade;
+nome = "Erick ";
+idade = 18;
+let userId;
+console.log(nome + idade);
+let valor1;
+let valor2;
+let autentication;
